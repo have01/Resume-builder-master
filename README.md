@@ -20,7 +20,7 @@ Here are some screenshots of the project to give you an idea of its features and
 ## Getting Started
 1. Clone this repository to your local machine
 ```bash
-git clone https://github.com/imhardikdesai/Resume-Builder.git
+git clone https://github.com/have01/Resume-builder-master
 ```
 2. Navigate to the project directory
 ```bash
